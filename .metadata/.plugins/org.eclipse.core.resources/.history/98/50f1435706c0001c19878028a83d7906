@@ -1,9 +1,0 @@
-package com.wej.produits.repos;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.wej.produits.entities.Produit;
-
-public interface ProduitRepository extends JpaRepository<Produit, Long> {
-
-}

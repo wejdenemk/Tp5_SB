@@ -1,5 +1,0 @@
-package com.wej.produits.service;
-
-public interface ProduitService {
-
-}
