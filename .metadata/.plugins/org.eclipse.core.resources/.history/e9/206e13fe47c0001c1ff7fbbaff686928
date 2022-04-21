@@ -1,0 +1,5 @@
+package com.wej.produits.recontrollers;
+
+public class ProduitRESTController {
+
+}
