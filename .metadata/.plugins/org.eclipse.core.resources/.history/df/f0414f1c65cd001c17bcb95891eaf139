@@ -1,0 +1,10 @@
+package com.wej.produits.service;
+
+import java.util.List;
+
+import com.wej.produits.entities.Categorie;
+
+
+public interface CatService {
+	List<Categorie> findAll();
+}

@@ -1,0 +1,18 @@
+package com.wej.produits.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.wej.produits.entities.Categorie;
+
+@Service 
+public class CatServiceImpl implements CatService{
+
+	@Override
+	public List<Categorie> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
